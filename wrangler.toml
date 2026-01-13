@@ -1,0 +1,4 @@
+name = "dart-cloudflare-worker"
+type = "javascript"
+
+compatibility_date = "2025-01-01"
